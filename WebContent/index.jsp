@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>陈康钦的个人空间</title>
+<title>陈康钦的个人空间haha</title>
 <meta name="keywords" content="陈康钦的个人空间" />
 <meta name="description" content="" />
 <link rel="stylesheet" href="css/index.css"/>
